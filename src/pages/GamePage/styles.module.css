@@ -1,0 +1,7 @@
+.court {
+  display: grid;
+  grid-template-columns: repeat(4, 200px);
+  grid-auto-rows: 200px;
+  grid-row-gap: 1px;
+  grid-column-gap: 1px;
+}
